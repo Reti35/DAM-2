@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo>Your name</titulo>
+		<autor>Makoto Shinkai</autor><fechaPublicacion>2016</fechaPublicacion>
+		
+	</libro>
+	<libro>
+		<titulo>JoJo's Bizarre Adventure Part I: Phantom Blood</titulo>
+		<autor>Hirohiko Araki</autor>
+		<fechaPublicacion>1986</fechaPublicacion>
+	</libro>
+	<libro>
+		<titulo>My hero academia</titulo>
+		<autor>Kohei Horikoshi</autor>
+		<fechaPublicacion>2014</fechaPublicacion>
+	</libro>
+</biblioteca>

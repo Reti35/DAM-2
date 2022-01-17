@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><llibres>
+	<llibre>
+		<identificador>0</identificador>
+		<titol>La vida de Luisgarcia</titol>
+		<autor>Luis Garcia</autor>
+		<anyPublicacio>2020</anyPublicacio>
+		<editorial>Luisgarcia</editorial>
+		<nombrePagines>59</nombrePagines></llibre>
+	<llibre><identificador>1</identificador><titol>El Pepe vs ete Sech</titol><autor>Potaxio</autor><anyPublicacio>2</anyPublicacio><editorial>Pepemel</editorial><nombrePagines>134</nombrePagines></llibre>
+	<llibre>
+		<identificador>2</identificador>
+		<titol>Mi academia de heroes</titol>
+		<autor>Kohei Horikoshi</autor>
+		<anyPublicacio>2014</anyPublicacio>
+		<editorial>Altaya</editorial>
+		<nombrePagines>156</nombrePagines></llibre></llibres>
