@@ -1,5 +1,12 @@
 import java.net.Socket;
 
+/**
+ * 
+ * @author René Ribera Medrano
+ * 
+ * Clase gestora de la temperatura
+ *
+ */
 public class GestorHttp {
 
 	private Socket socket;
